@@ -1,22 +1,17 @@
 ---
 title: "Mitmachen"
 eyebrow: "Kommen Sie ins Gespräch"
-lead: "Wir suchen Menschen, die sich ein gemeinschaftliches Zuhause rund um Bern vorstellen können — und bereit sind, verbindlich mitzuwirken."
-weight: 5
+lead: "Bei Allmend Leben kann man auf zwei Weisen dabei sein — mitdenken bei der Idee, oder verbindlich in einem konkreten Projekt mitwirken."
 ---
 
-## Wen wir suchen
+## Bei einem Projekt mitwirken
 
-Wir sind eine kleine Initiativgruppe rund um Bern und möchten den Kreis auf **vier bis fünf Haushalte** wachsen lassen. Wichtiger als ein festes Profil ist uns die Haltung: gute Nachbarschaft, Rücksicht aufeinander, Freude daran, füreinander da zu sein — und die Bereitschaft, mit Neugier und Ausdauer einen gemeinsamen Weg zu gehen.
+Der konkreteste Weg führt über ein Vorhaben. Heute ist das **[Allmend Bern](/projekte/allmend-bern/mitmachen/)** — ein gemeinschaftliches Zuhause mit vier bis fünf Haushalten rund um Bern, das gerade Menschen sucht. Ein erstes Kennenlernen verpflichtet zu nichts.
 
-Das angestrebte Wachstum soll uns nicht bremsen: Wir treiben das Projekt schon jetzt voran und sind zugleich **offen für neue Interessierte**.
+## Bei der Idee mitdenken
 
-## Wie ein erstes Kennenlernen aussieht
-
-Wenn Sie sich von diesen Gedanken angesprochen fühlen und sich vorstellen können, an einem solchen Vorhaben verbindlich mitzuwirken, freuen wir uns auf ein persönliches Gespräch.
-
-**Ein erstes Kennenlernen verpflichtet zu nichts.** Es bietet die Gelegenheit herauszufinden, ob aus einer gemeinsamen Idee vielleicht einmal ein gemeinsamer Lebensort entstehen kann.
+Vielleicht passt Bern nicht — geografisch oder von der Form her —, aber der Gedanke spricht Sie an. Auch dann freuen wir uns: als möglicher Anstoß für ein weiteres Vorhaben, als Gemeinde mit passendem Boden, als Eigentümer:in eines Objekts oder als Unterstützer:in. Allmend Leben soll wachsen, und weitere Formen gemeinschaftlichen Lebens sind ausdrücklich willkommen.
 
 ## So erreichen Sie uns
 
-Schreiben Sie uns ein paar Zeilen über sich und was Sie an der Idee anspricht — wir melden uns und laden zu einem ersten Gespräch ein. Die Kontaktangaben finden Sie unter [Kontakt](/kontakt/).
+Schreiben Sie uns ein paar Zeilen über sich und was Sie anspricht — die Kontaktangaben finden Sie unter [Kontakt](/kontakt/). Wir melden uns und laden zu einem ersten, unverbindlichen Gespräch ein.

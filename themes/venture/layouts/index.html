@@ -41,8 +41,26 @@
 </section>
 {{ end }}
 
+{{/* Unsere Vorhaben — the typed projects; graceful at one, scales to many */}}
+{{ with .Site.GetPage "/projekte" }}
+  {{ $projekte := . }}
+  {{ with $projekte.Pages }}
+  <section class="section bg-light">
+    <div class="container-x">
+      <div class="section-header">
+        <h2>{{ $.Params.projects_title | default "Unsere Vorhaben" }}</h2>
+        {{ with $.Params.projects_intro }}<p>{{ . }}</p>{{ end }}
+      </div>
+      <div class="card-grid">
+        {{ range . }}{{ partial "projekt-card.html" . }}{{ end }}
+      </div>
+    </div>
+  </section>
+  {{ end }}
+{{ end }}
+
 {{ with .Params.cards }}
-<section class="section bg-light">
+<section class="section bg-white">
   <div class="container-x">
     {{ with $.Params.cards_title }}<div class="section-header"><h2>{{ . }}</h2>{{ with $.Params.cards_intro }}<p>{{ . }}</p>{{ end }}</div>{{ end }}
     <div class="card-grid">
@@ -63,9 +81,9 @@
   {{ $sec := . }}
   {{ $posts := first 3 .Pages.ByDate.Reverse }}
   {{ with $posts }}
-  <section class="section bg-white">
+  <section class="section bg-light">
     <div class="container-x">
-      <div class="section-header"><h2>Aktuelles</h2><p>Neuigkeiten, Themen und Termine aus dem Projekt.</p></div>
+      <div class="section-header"><h2>Aktuelles</h2><p>Neuigkeiten, Themen und Termine aus Allmend Leben.</p></div>
       <div class="card-grid">
         {{ range . }}
         <a href="{{ .RelPermalink }}" class="card">
@@ -82,7 +100,7 @@
 {{ end }}
 
 {{ with .Params.cta }}
-<section class="section bg-light">
+<section class="section bg-white">
   <div class="container-x cta-band">
     <h2>{{ .heading }}</h2>
     {{ with .text }}<p>{{ . }}</p>{{ end }}

@@ -1,0 +1,19 @@
+{{ define "main" }}
+<header class="page-head">
+  <div class="container-x">
+    {{ with .Params.eyebrow }}<div class="eyebrow">{{ . }}</div>{{ end }}
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.lead }}<p class="lead">{{ . }}</p>{{ end }}
+  </div>
+</header>
+
+{{ with .Content }}<div class="prose">{{ . }}</div>{{ end }}
+
+<section class="section bg-light">
+  <div class="container-x">
+    <div class="card-grid">
+      {{ range .Pages }}{{ partial "projekt-card.html" . }}{{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}

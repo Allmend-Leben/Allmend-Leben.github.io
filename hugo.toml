@@ -1,29 +1,32 @@
 baseURL = "/"
 languageCode = "de-CH"
 defaultContentLanguage = "de"
-title = "Allmend Bern"
+title = "Allmend Leben"
 theme = "venture"
 enableRobotsTXT = true
 
 [params]
-  brand = "Allmend Bern"
-  description = "Eine Initiativgruppe sucht ein gemeinschaftliches Zuhause rund um Bern — Menschen zuerst, dann der Ort. Kein Ideologieprojekt, gute Nachbarschaft mit eigenem Rückzug."
+  brand = "Allmend Leben"
+  description = "Allmend Leben — gemeinschaftliches Leben als lebendige Allmend. Ein Ort gehört der Gemeinschaft, nicht der Spekulation. Menschen zuerst, dann der Ort. Erstes Vorhaben: Allmend Bern."
   # The venture's one warm accent — the family blue chrome stays.
   accent = "#C98A46"
   accentTint = "#F6EEE2"
   heroBg = "#F6EEE2"
-  footerNote = "Allmend Bern — eine Initiativgruppe rund um Bern"
+  footerNote = "Allmend Leben — gemeinschaftliches Leben als lebendige Allmend"
   [params.navCta]
     label = "Mitmachen"
     url = "/mitmachen/"
 
+[taxonomies]
+  projekttyp = "projekttypen"
+
 [[menu.main]]
   name = "Die Idee"
-  url = "/die-idee/"
+  url = "/idee/"
   weight = 10
 [[menu.main]]
-  name = "Wie wir leben wollen"
-  url = "/wie-wir-leben/"
+  name = "Projekte"
+  url = "/projekte/"
   weight = 20
 [[menu.main]]
   name = "Wissen"

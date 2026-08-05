@@ -222,6 +222,9 @@ a.card:hover { transform: translateY(-4px); box-shadow: var(--shadow-card); }
 .footer a:hover { color: var(--color-accent); }
 .footer .footer-brand { color: var(--color-ink-500); }
 
+/* ---------- Badge (project type) ---------- */
+.badge { display: inline-block; align-self: flex-start; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase; color: var(--color-accent); background: var(--color-accent-tint); padding: 4px 11px; border-radius: var(--radius-pill); margin-bottom: 12px; }
+
 /* ---------- Responsive ---------- */
 @media (max-width: 820px) {
   .steps { grid-template-columns: 1fr; gap: 28px; }
