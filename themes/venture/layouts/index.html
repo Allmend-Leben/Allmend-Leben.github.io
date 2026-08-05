@@ -60,6 +60,7 @@
 {{ end }}
 
 {{ with .Site.GetPage "/aktuelles" }}
+  {{ $sec := . }}
   {{ $posts := first 3 .Pages.ByDate.Reverse }}
   {{ with $posts }}
   <section class="section bg-white">
@@ -74,7 +75,7 @@
         </a>
         {{ end }}
       </div>
-      <div style="text-align:center;margin-top:32px;"><a href="{{ .RelPermalink }}" class="btn-secondary">Alle Beiträge</a></div>
+      <div style="text-align:center;margin-top:32px;"><a href="{{ $sec.RelPermalink }}" class="btn-secondary">Alle Beiträge</a></div>
     </div>
   </section>
   {{ end }}
