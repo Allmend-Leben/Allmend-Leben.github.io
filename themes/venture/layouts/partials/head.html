@@ -1,0 +1,15 @@
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ if not .IsHome }}{{ .Title }} — {{ end }}{{ .Site.Title }}</title>
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Params.lead }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ "css/venture.css" | relURL }}">
+{{/* Per-venture warmth injected from site params — the family blue chrome stays. */}}
+<style>:root{
+  --color-accent: {{ .Site.Params.accent | default "#3AAADC" }};
+  --color-accent-tint: {{ .Site.Params.accentTint | default "#EBF6FB" }};
+  --color-hero-bg: {{ .Site.Params.heroBg | default "#EBF6FB" }};
+}</style>
+{{ with .OutputFormats.Get "rss" }}<link rel="alternate" type="application/rss+xml" href="{{ .Permalink }}" title="{{ $.Site.Title }}">{{ end }}

@@ -1,0 +1,68 @@
+/*
+ * Venture Standard — design tokens
+ * Derived 1:1 from the cloudsters family system (cloudsters.net · commons.engineering).
+ * The blue chrome is the shared family spine; each venture adds ONE warm accent
+ * (--color-accent / --color-accent-tint / --color-hero-bg) via its hugo.toml params.
+ *
+ * Edit family-wide values here; per-venture warmth is injected in <head> from site params.
+ */
+
+:root {
+  /* Brand — shared family spine */
+  --color-brand:        #3AAADC;
+  --color-brand-light:  #5BC0DE;
+  --color-brand-dark:   #2E94BD;
+  --color-brand-tint:   #EBF6FB;
+
+  /* cloudsters cloud accents (warm, used sparingly) */
+  --color-cloud-magenta: #E03A8A;
+  --color-cloud-yellow:  #F2C94C;
+  --color-cloud-cyan:    #5BC0DE;
+  --color-cloud-pink:    #F49AC2;
+
+  /* Per-venture warmth — overridden in <head> from Site.Params. Defaults = family. */
+  --color-accent:       #3AAADC;
+  --color-accent-tint:  #EBF6FB;
+  --color-hero-bg:      #EBF6FB;
+
+  /* Ink — text and headings */
+  --color-ink-900: #1e293b;
+  --color-ink-700: #333333;
+  --color-ink-500: #555555;
+  --color-ink-400: #64748b;
+  --color-ink-300: #94a3b8;
+  --color-ink-200: #cbd5e1;
+  --color-ink-100: #e2e8f0;
+  --color-ink-50:  #e8e8e8;
+
+  /* Surfaces */
+  --color-surface:        #ffffff;
+  --color-surface-muted:  #fafafa;
+  --color-surface-subtle: #f8f9fa;
+
+  /* Type */
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+  --font-size-base: 16px;
+  --line-height-body: 1.6;
+
+  /* Spacing rhythm */
+  --container-max: 1200px;
+  --prose-max:      800px;
+
+  /* Radii */
+  --radius-default: 8px;
+  --radius-card:    12px;
+  --radius-pill:    25px;
+
+  /* Shadows */
+  --shadow-nav:      0 2px 10px rgba(0, 0, 0, 0.03);
+  --shadow-card:     0 8px 24px rgba(0, 0, 0, 0.08);
+  --shadow-dropdown: 0 10px 40px rgba(0, 0, 0, 0.15);
+  --shadow-cta:      0 5px 15px rgba(58, 170, 220, 0.30);
+
+  /* Motion */
+  --transition: 200ms ease;
+
+  /* Nav */
+  --nav-height: 65px;
+}

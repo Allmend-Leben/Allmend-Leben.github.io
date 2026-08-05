@@ -1,0 +1,30 @@
+{{ define "main" }}
+<header class="page-head">
+  <div class="container-x">
+    {{ with .Params.eyebrow }}<div class="eyebrow">{{ . }}</div>{{ end }}
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.lead }}<p class="lead">{{ . }}</p>{{ end }}
+  </div>
+</header>
+
+{{ with .Content }}
+<div class="prose">{{ . }}</div>
+{{ end }}
+
+{{ with .Pages }}
+<section class="section bg-light">
+  <div class="container-x">
+    <div class="card-grid">
+      {{ range .ByWeight }}
+      <a href="{{ .RelPermalink }}" class="card">
+        {{ with .Params.icon }}<div class="card-icon"><i data-lucide="{{ . }}"></i></div>{{ end }}
+        <h3>{{ .Title }}</h3>
+        <p>{{ with .Params.lead }}{{ . }}{{ else }}{{ .Summary }}{{ end }}</p>
+        <div class="card-meta">Lesen →</div>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}

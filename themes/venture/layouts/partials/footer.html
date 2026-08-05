@@ -1,0 +1,8 @@
+<footer class="footer">
+  <div class="footer-container">
+    <div class="footer-brand">{{ .Site.Params.footerNote | default .Site.Title }}</div>
+    <div>
+      {{ range $i, $e := .Site.Menus.footer }}{{ if $i }} · {{ end }}<a href="{{ .URL | relURL }}">{{ .Name }}</a>{{ end }}
+    </div>
+  </div>
+</footer>

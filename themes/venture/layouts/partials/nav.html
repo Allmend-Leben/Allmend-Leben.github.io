@@ -1,0 +1,19 @@
+{{ $cur := . }}
+<nav class="nav">
+  <div class="nav-container">
+    <a href="{{ "/" | relURL }}" class="nav-brand">
+      <span class="logo-icon">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 10.5 12 3l9 7.5"/><path d="M5 9.5V21h14V9.5"/><path d="M9 21v-6h6v6"/></svg>
+      </span>
+      {{ .Site.Params.brand | default .Site.Title }}
+    </a>
+    <div class="nav-links">
+      {{ range .Site.Menus.main }}
+        <a href="{{ .URL | relURL }}" class="nav-link{{ if $cur.IsMenuCurrent "main" . }} is-active{{ end }}">{{ .Name }}</a>
+      {{ end }}
+    </div>
+    {{ with .Site.Params.navCta }}
+      <a href="{{ .url | relURL }}" class="nav-cta">{{ .label }}</a>
+    {{ end }}
+  </div>
+</nav>

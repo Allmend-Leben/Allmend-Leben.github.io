@@ -1,0 +1,9 @@
+name = "Venture Standard"
+license = "CC-BY-SA-4.0"
+licenselink = "https://creativecommons.org/licenses/by-sa/4.0/"
+description = "cloudsters Venture Standard — a low-maintenance Hugo theme for the public site (Outer Post) of a manageable venture. Family look & feel derived from cloudsters.net and commons.engineering."
+homepage = "https://cloudsters.net"
+min_version = "0.128.0"
+
+[author]
+  name = "cloudsters"

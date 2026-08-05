@@ -1,0 +1,93 @@
+{{ define "main" }}
+
+{{ with .Params.hero }}
+<section class="hero">
+  {{ with .eyebrow }}<div class="eyebrow">{{ . }}</div>{{ end }}
+  <h1>{{ .heading }}</h1>
+  {{ with .subtitle }}<p class="subtitle">{{ . }}</p>{{ end }}
+  <div class="hero-cta">
+    {{ with .primary }}<a href="{{ .url | relURL }}" class="btn-primary">{{ .label }}</a>{{ end }}
+    {{ with .secondary }}<a href="{{ .url | relURL }}" class="btn-secondary">{{ .label }}</a>{{ end }}
+  </div>
+</section>
+{{ end }}
+
+{{ with .Params.steps }}
+<section class="section bg-light">
+  <div class="container-x">
+    {{ with $.Params.steps_title }}
+    <div class="section-header">
+      <h2>{{ . }}</h2>
+      {{ with $.Params.steps_intro }}<p>{{ . }}</p>{{ end }}
+    </div>
+    {{ end }}
+    <div class="steps">
+      {{ range $i, $s := . }}
+        {{ if $i }}<div class="step-arrow">→</div>{{ end }}
+        <div class="step">
+          <div class="card-icon"><i data-lucide="{{ .icon | default "circle" }}"></i></div>
+          <h3>{{ .title }}</h3>
+          <p>{{ .text }}</p>
+        </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+{{ with .Content }}
+<section class="section bg-white">
+  <div class="container-x narrative">{{ . }}</div>
+</section>
+{{ end }}
+
+{{ with .Params.cards }}
+<section class="section bg-light">
+  <div class="container-x">
+    {{ with $.Params.cards_title }}<div class="section-header"><h2>{{ . }}</h2>{{ with $.Params.cards_intro }}<p>{{ . }}</p>{{ end }}</div>{{ end }}
+    <div class="card-grid">
+      {{ range . }}
+      <a href="{{ .url | relURL }}" class="card">
+        <div class="card-icon"><i data-lucide="{{ .icon | default "circle" }}"></i></div>
+        <h3>{{ .title }}</h3>
+        <p>{{ .text }}</p>
+        {{ with .meta }}<div class="card-meta">{{ . }} →</div>{{ end }}
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+{{ with .Site.GetPage "/aktuelles" }}
+  {{ $posts := first 3 .Pages.ByDate.Reverse }}
+  {{ with $posts }}
+  <section class="section bg-white">
+    <div class="container-x">
+      <div class="section-header"><h2>Aktuelles</h2><p>Neuigkeiten, Themen und Termine aus dem Projekt.</p></div>
+      <div class="card-grid">
+        {{ range . }}
+        <a href="{{ .RelPermalink }}" class="card">
+          <div class="card-meta" style="color:var(--color-ink-400);font-weight:400;">{{ .Date.Format "2. January 2006" }}</div>
+          <h3>{{ .Title }}</h3>
+          <p>{{ with .Params.lead }}{{ . }}{{ else }}{{ .Summary }}{{ end }}</p>
+        </a>
+        {{ end }}
+      </div>
+      <div style="text-align:center;margin-top:32px;"><a href="{{ .RelPermalink }}" class="btn-secondary">Alle Beiträge</a></div>
+    </div>
+  </section>
+  {{ end }}
+{{ end }}
+
+{{ with .Params.cta }}
+<section class="section bg-light">
+  <div class="container-x cta-band">
+    <h2>{{ .heading }}</h2>
+    {{ with .text }}<p>{{ . }}</p>{{ end }}
+    {{ with .primary }}<a href="{{ .url | relURL }}" class="btn-primary">{{ .label }}</a>{{ end }}
+  </div>
+</section>
+{{ end }}
+
+{{ end }}

@@ -1,0 +1,21 @@
+{{ define "main" }}
+<header class="page-head">
+  <div class="container-x">
+    {{ with .Params.eyebrow }}<div class="eyebrow">{{ . }}</div>{{ end }}
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.lead }}<p class="lead">{{ . }}</p>{{ end }}
+  </div>
+</header>
+
+{{ with .Content }}<div class="prose" style="padding-bottom:8px;">{{ . }}</div>{{ end }}
+
+<div class="post-list">
+  {{ range .Pages.ByDate.Reverse }}
+  <a href="{{ .RelPermalink }}" class="post-item">
+    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2. January 2006" }}</time>
+    <h3>{{ .Title }}</h3>
+    <p>{{ with .Params.lead }}{{ . }}{{ else }}{{ .Summary }}{{ end }}</p>
+  </a>
+  {{ end }}
+</div>
+{{ end }}

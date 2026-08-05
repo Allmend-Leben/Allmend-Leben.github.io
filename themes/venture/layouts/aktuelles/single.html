@@ -1,0 +1,18 @@
+{{ define "main" }}
+<article>
+  <header class="page-head">
+    <div class="container-x">
+      <div class="eyebrow">Aktuelles</div>
+      <h1>{{ .Title }}</h1>
+      {{ with .Params.lead }}<p class="lead">{{ . }}</p>{{ end }}
+      <div class="page-meta">{{ .Date.Format "2. January 2006" }}{{ with .Params.author }} · {{ . }}{{ end }}</div>
+    </div>
+  </header>
+  <div class="prose">
+    {{ .Content }}
+  </div>
+  <div class="container-x" style="max-width:var(--prose-max);padding-bottom:56px;">
+    <a href="{{ (.Site.GetPage "/aktuelles").RelPermalink }}" class="btn-secondary">← Alle Beiträge</a>
+  </div>
+</article>
+{{ end }}
