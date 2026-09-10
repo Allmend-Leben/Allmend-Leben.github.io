@@ -11,6 +11,6 @@ Unsere kleine Gruppe hat sich gefunden und möchte den Kreis auf **sechs bis sie
 
 ## Wie ein erstes Kennenlernen aussieht
 
-Wenn Sie sich von diesen Gedanken angesprochen fühlen und sich vorstellen können, verbindlich mitzuwirken, freuen wir uns auf ein persönliches Gespräch. **Ein erstes Kennenlernen verpflichtet zu nichts.** Es bietet die Gelegenheit herauszufinden, ob aus einer gemeinsamen Idee vielleicht einmal ein gemeinsamer Lebensort entstehen kann.
+Wen diese Gedanken ansprechen und wer sich vorstellen kann, verbindlich mitzuwirken, ist herzlich zu einem persönlichen Gespräch eingeladen. **Ein erstes Kennenlernen verpflichtet zu nichts.** Es ist die Gelegenheit herauszufinden, ob aus einer gemeinsamen Idee vielleicht einmal ein gemeinsamer Lebensort entstehen kann.
 
-Schreiben Sie uns ein paar Zeilen über sich und was Sie an der Idee anspricht — die Kontaktangaben finden Sie unter [Kontakt](/kontakt/).
+Ein paar Zeilen genügen: wer da schreibt, und was an der Idee anspricht. Die Kontaktangaben stehen unter [Kontakt](/kontakt/).

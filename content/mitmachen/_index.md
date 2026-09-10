@@ -1,6 +1,6 @@
 ---
 title: "Mitmachen"
-eyebrow: "Kommen Sie ins Gespräch"
+eyebrow: "Ins Gespräch kommen"
 lead: "Bei Allmend Leben kann man auf zwei Weisen dabei sein — mitdenken bei der Idee, oder verbindlich in einem konkreten Projekt mitwirken."
 ---
 
@@ -10,8 +10,8 @@ Der konkreteste Weg führt über ein Vorhaben. Heute ist das **[Allmend Bern](/p
 
 ## Bei der Idee mitdenken
 
-Vielleicht passt Bern nicht — geografisch oder von der Form her —, aber der Gedanke spricht Sie an. Auch dann freuen wir uns: als möglicher Anstoß für ein weiteres Vorhaben, als Gemeinde mit passendem Boden, als Eigentümer:in eines Objekts oder als Unterstützer:in. Allmend Leben soll wachsen, und weitere Formen gemeinschaftlichen Lebens sind ausdrücklich willkommen.
+Vielleicht passt Bern nicht — geografisch oder von der Form her —, aber der Gedanke bleibt hängen. Auch dann freuen wir uns: als möglicher Anstoß für ein weiteres Vorhaben, als Gemeinde mit passendem Boden, als Eigentümer:in eines Objekts oder als Unterstützer:in. Allmend Leben soll wachsen, und weitere Formen gemeinschaftlichen Lebens sind ausdrücklich willkommen.
 
-## So erreichen Sie uns
+## So erreicht man uns
 
-Schreiben Sie uns ein paar Zeilen über sich und was Sie anspricht — die Kontaktangaben finden Sie unter [Kontakt](/kontakt/). Wir melden uns und laden zu einem ersten, unverbindlichen Gespräch ein.
+Ein paar Zeilen genügen: wer da schreibt, und was an der Idee anspricht. Die Kontaktangaben stehen unter [Kontakt](/kontakt/) — wir melden uns und laden zu einem ersten, unverbindlichen Gespräch ein.

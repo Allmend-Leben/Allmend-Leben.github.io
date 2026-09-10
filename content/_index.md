@@ -38,9 +38,9 @@ cards:
     url: "/mitmachen/"
     meta: "Mitmachen"
 cta:
-  heading: "Fühlen Sie sich angesprochen?"
+  heading: "Neugierig geworden?"
   text: "Ob als möglicher Teil einer Gemeinschaft, als Gemeinde, als Eigentümer:in eines passenden Objekts oder als Unterstützer:in — wir freuen uns über jede Begegnung."
-  primary: { label: "Kommen Sie ins Gespräch", url: "/mitmachen/" }
+  primary: { label: "Ins Gespräch kommen", url: "/mitmachen/" }
 ---
 
 Im Grunde ist Allmend Leben eine alte, gute Idee: die **Allmend** — ein Gut, das der Gemeinschaft gehört, gemeinsam genutzt und gepflegt wird und über Generationen trägt. Nicht Spekulationsobjekt, nicht Rendite, sondern gemeinsam geschaffener und gerecht geteilter Wert: ein gutes Leben, Zugehörigkeit, Sorge füreinander.
