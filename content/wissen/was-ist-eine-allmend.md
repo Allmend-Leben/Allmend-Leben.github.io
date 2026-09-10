@@ -25,9 +25,9 @@ Der Kern, und er steht quer zu allem, was der Immobilienmarkt sonst tut:
 
 > **Bestimmung → Dichte → Ort.**
 
-Zuerst die Menschen und eine benennbare gemeinsame Bestimmung. Dann genug **Dichte** — genug Menschen und Vorhaben, die ein gemeinsamer Ort bündeln würde, statt sie zu zerstreuen. Und **erst dann** der Ort. Der Ort wird *verdient, nicht gekauft*. Manche Gemeinschaften reifen jahrelang, bevor sie einen eigenen Ort verdienen — und manche brauchen nie einen.
+Zuerst die Menschen und eine benennbare gemeinsame Bestimmung. Dann genug **Dichte** — genug Menschen und Vorhaben, die ein gemeinsamer Ort bündeln würde, statt sie zu zerstreuen. Und **erst dann** der Ort. Er steht nicht am Anfang, sondern folgt aus beidem. Manche Gemeinschaften reifen jahrelang, bevor ein eigener Ort für sie sinnvoll wird — und manche brauchen nie einen.
 
-Dass die umgekehrte Reihenfolge scheitert, ist keine Vermutung, sondern belegt. Die großen Co-Living-Ketten — **WeLive**, **The Collective**, **Common** — haben genau das getan: viel Kapital in Gebäude verbaut, bevor die Gemeinschaft da war, in der Hoffnung, die Wände würden sie schon schaffen. Das können Wände nicht. Der Ort kam vor der Gemeinschaft, und das ist die falsche Reihenfolge.
+Wohin die umgekehrte Reihenfolge führen kann, zeigen bekannte Beispiele: Die großen Co-Living-Ketten — **WeLive**, **The Collective**, **Common** — haben viel Kapital in Gebäude verbaut, bevor eine Gemeinschaft da war, in der Hoffnung, die Wände würden sie schon schaffen. Alle drei sind gescheitert. Das beweist für sich genommen keine Regel — aber es deckt sich mit dem, was auch im Kleinen zu beobachten ist: Wände schaffen nicht, was nur Menschen schaffen können.
 
 ## Die Prüffrage
 
@@ -50,21 +50,21 @@ Ob ein Ort ein Gemeingut bleibt, hängt an vier Dingen. Fällt eines weg, sieht 
 
 Die großen Ketten haben Belegung und Betrieb mit aller Kraft optimiert und Bestimmung und echte Teilhabe vernachlässigt — perfekt geführte Veranstaltungsflächen ohne Gemeinschaft darunter, die beim ersten Sturm zerfielen. Alle vier müssen zusammen tragen.
 
-## Dass es über Jahrzehnte trägt, ist belegt
+## Orte, die seit Jahrzehnten tragen
 
-Neben den bekannten Zusammenbrüchen gibt es einen viel längeren Bestand an Orten, die seit Jahrzehnten tragen — gerade weil sie die vier Dimensionen zusammenhalten. Drei, von denen wir lernen:
+Neben den bekannten Zusammenbrüchen gibt es einen viel längeren Bestand an Orten, die seit Jahrzehnten tragen — aus unserer Sicht, weil sie die vier Dimensionen zusammenhalten. Drei, von denen wir lernen:
 
 - **Kalkbreite (Zürich):** *Eine* regierende Beschränkung genügt. Eine feste Obergrenze von rund 35 m² pro Person deckelt den Landverbrauch, hält die Kostenmiete niedrig *und* treibt ins Geteilte. Der kleine private Raum kauft den großzügigen gemeinsamen.
 - **Sættedammen (Dänemark):** Gemeinschaft ist ein *Ergebnis des Grundrisses*, keine Absicht. Das Gemeinschaftshaus am Weg nach Hause, die Autos am Rand, ein niedrigschwelliges gemeinsames Essen — Begegnung wird gebaut, nicht beschworen. Und man wächst, indem man klein bleibt und neu gründet, nicht indem man einen Ort vergrößert.
-- **Mehr als Wohnen (Zürich):** Der Ort wird über die *Form* verdient. Der Boden liegt im Baurecht und wird nie verkauft, die Bestimmung steht im Vertrag, die Miete ist Kostenmiete. Die Bewohner sind Miteigentümer und Mitentscheider, nicht Kunden.
+- **Mehr als Wohnen (Zürich):** Hier trägt die *Form* den Ort. Der Boden liegt im Baurecht und wird nie verkauft, die Bestimmung steht im Vertrag, die Miete ist Kostenmiete. Die Bewohner sind Miteigentümer und Mitentscheider, nicht Kunden.
 
 ## Und was ist Commons Engineering?
 
-**Commons Engineering** ist die Fachdisziplin, solche Gemeingüter zu entwerfen und zu bauen. Sie ist offen lizenziert (CC-BY-SA-4.0) und gehört der Welt; **cloudsters** betreut sie und begleitet uns als methodischer Partner.
+**Commons Engineering** ist ein Ansatz, solche Gemeingüter zu entwerfen und zu tragen — eine wachsende Sammlung von Erfahrungen, Mustern und Methoden, keine etablierte akademische Disziplin. Er ist offen lizenziert (CC-BY-SA-4.0) und frei nutzbar; **cloudsters** pflegt ihn und begleitet uns als methodischer Partner.
 
 Sie liefert keine Weltanschauung und keine starren Vorgaben, sondern eine gemeinsame Sprache und einen erprobten Bauplan — sie hilft, die richtigen Fragen früh zu stellen. Ihr Leitgedanke heißt **Commons as Code**: der Ort als lebendiger, kopierbarer Bauplan, in dem zuerst die *Richtung und die Kultur* beschrieben werden — Werte, Umgang miteinander, Entscheidungswege — und erst danach Gebäude und Technik. Vier einfache Dimensionen halten das zusammen: **Bestimmung** (wozu), **Teilhabe** (wer, und wie miteinander), **Angebot & Austausch** (was jede:r gibt und bekommt) und **Produktion & Tragfähigkeit** (wie der Ort trägt, auch wenn sich ein Leben ändert).
 
-Wichtig ist uns: **Eigentum und Entscheidung liegen bei uns.** Die Disziplin stützt unser Urteil — sie ersetzt es nicht.
+Wichtig ist uns: **Eigentum und Entscheidung liegen bei uns.** Der Ansatz stützt unser Urteil — er ersetzt es nicht.
 
 ## Was das nicht ist
 

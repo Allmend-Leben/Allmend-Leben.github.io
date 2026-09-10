@@ -7,7 +7,7 @@ hero:
   primary: { label: "Mitmachen", url: "/mitmachen/" }
   secondary: { label: "Die Idee", url: "/idee/" }
 steps_title: "Menschen zuerst, dann der Ort"
-steps_intro: "Ein Ort wird verdient, nicht gekauft. Deshalb drehen wir die übliche Reihenfolge um."
+steps_intro: "Nicht das Gebäude steht am Anfang, sondern die Menschen und ein gemeinsamer Grund — der passende Ort folgt daraus."
 steps:
   - icon: "users"
     title: "Zuerst die Bestimmung"

@@ -18,7 +18,7 @@ Das unterscheidet ihn von einer Ware. Eine Ware konkurriert über Preis und Lage
 
 ## Menschen zuerst, dann der Ort
 
-Die meisten Wohnprojekte beginnen mit dem Gebäude — und hoffen, die Gemeinschaft stelle sich schon ein. Genau daran scheitern die meisten: Wände schaffen nicht, was nur Menschen schaffen können. Deshalb drehen wir die Reihenfolge um: **zuerst die Menschen und ein gemeinsamer Grund, dann die Nähe, die daraus wächst, und zuletzt der Ort.**
+Viele Wohnprojekte beginnen mit dem Gebäude — und hoffen, die Gemeinschaft stelle sich schon ein. Darin sehen wir eine Schwäche: Wände schaffen nicht, was nur Menschen schaffen können. Deshalb drehen wir die Reihenfolge um: **zuerst die Menschen und ein gemeinsamer Grund, dann die Nähe, die daraus wächst, und zuletzt der passende Ort.**
 
 ## Ein Dach, viele Formen
 
