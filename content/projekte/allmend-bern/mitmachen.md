@@ -7,7 +7,7 @@ weight: 30
 
 ## Wen wir suchen
 
-Wir möchten den Kreis auf **vier bis fünf Haushalte** wachsen lassen. Wichtiger als ein festes Profil ist uns die Haltung: gute Nachbarschaft, Rücksicht aufeinander, Freude daran, füreinander da zu sein — und die Bereitschaft, mit Neugier und Ausdauer einen gemeinsamen Weg zu gehen.
+Unsere kleine Gruppe hat sich gefunden und möchte den Kreis auf **sechs bis sieben Haushalte** wachsen lassen — mit Menschen, die diese Idee **mit uns entwickeln und leben** möchten. Wichtiger als ein festes Profil ist uns die Haltung: gute Nachbarschaft, Rücksicht aufeinander, Freude daran, füreinander da zu sein — und die Bereitschaft, mit Neugier und Ausdauer einen gemeinsamen Weg zu gehen.
 
 ## Wie ein erstes Kennenlernen aussieht
 

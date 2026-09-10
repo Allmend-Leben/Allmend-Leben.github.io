@@ -6,7 +6,7 @@ lead: "Bei Allmend Leben kann man auf zwei Weisen dabei sein — mitdenken bei d
 
 ## Bei einem Projekt mitwirken
 
-Der konkreteste Weg führt über ein Vorhaben. Heute ist das **[Allmend Bern](/projekte/allmend-bern/mitmachen/)** — ein gemeinschaftliches Zuhause mit vier bis fünf Haushalten rund um Bern, das gerade Menschen sucht. Ein erstes Kennenlernen verpflichtet zu nichts.
+Der konkreteste Weg führt über ein Vorhaben. Heute ist das **[Allmend Bern](/projekte/allmend-bern/mitmachen/)** — ein gemeinschaftliches Zuhause mit sechs bis sieben Haushalten rund um Bern, das gerade Menschen sucht. Ein erstes Kennenlernen verpflichtet zu nichts.
 
 ## Bei der Idee mitdenken
 

@@ -13,6 +13,6 @@ Das Modell liegt zwischen **gemeinschaftlichem Wohnen und guter Nachbarschaft**:
 
 ## Bewusst gemischt
 
-Angestrebt sind rund zehn Menschen, bewusst **alters-, geschlechts- und familiengemischt** — von jüngeren Familien bis zu Menschen im dritten Lebensabschnitt. Kinder sind ausdrücklich willkommen; ebenso können wir uns vorstellen, jemanden zu integrieren, der alleinerziehend unterwegs ist. Haustiere sind willkommen.
+Angestrebt ist eine bewusst **alters-, geschlechts- und familiengemischte** Runde — von jüngeren Familien bis zu Menschen im dritten Lebensabschnitt. Kinder sind ausdrücklich willkommen; ebenso können wir uns vorstellen, jemanden zu integrieren, der alleinerziehend unterwegs ist. Haustiere sind willkommen.
 
 Wichtiger als ein festes Profil ist uns die Haltung: dass jede Lebensphase etwas einbringt — und dass wir Rücksicht nehmen auf das, was einzelne brauchen.

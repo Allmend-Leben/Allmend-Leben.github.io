@@ -7,7 +7,7 @@ weight: 20
 
 ## Der Ort
 
-Wir wollen nicht neu bauen, sondern **bestehenden Wohnraum um- und ausbauen**. Denkbar sind ein Bauern- oder Gutshof, ein ehemaliges Hotel oder eine Pension, ein Mehrfamilienhaus oder ein ähnliches Objekt — mit Platz für vier bis fünf Haushalte, Gemeinschaftsräume und einen Garten, ländlich oder am Stadtrand und mit dem öffentlichen Verkehr in rund einer Stunde um Bern erreichbar.
+Wir wollen nicht neu bauen, sondern **bestehenden Wohnraum um- und ausbauen**. Denkbar sind ein Bauern- oder Gutshof, ein ehemaliges Hotel oder eine Pension, ein Mehrfamilienhaus oder ein ähnliches Objekt — mit Platz für sechs bis sieben Haushalte, Gemeinschaftsräume und einen Garten, ländlich oder am Stadtrand und mit dem öffentlichen Verkehr in rund einer Stunde um Bern erreichbar.
 
 Wie groß der Ort sein muss, hängt davon ab, wer am Ende dazugehört — und wie viel privat und wie viel gemeinsam genutzt wird. Das halten wir bewusst offen, bis der Kreis steht. Feste Flächen- und Kostenannahmen würden heute nur ein Bild festschreiben, das wir gemeinsam erst noch zeichnen.
 
